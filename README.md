@@ -9,7 +9,7 @@
 1. Установите зависимости:
    ```bash
    npm install
-   Выберите даты в файле client.js / dateFrom и dateTo
+Выберите даты в файле client.js / dateFrom и dateTo
 2. Запустите 2 терминала
 3. В первом терминале пропишите node proxy.js
 4. Во втором node client.js
